@@ -1,0 +1,3 @@
+42.106.37.128/32
+
+mongodb+srv://herry36:<password>@cluster0.hxczk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
